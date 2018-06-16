@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ficha del Paciente</string>
+    <string name="nomepaciente">Nombre del Paciente:</string>
+    <string name="leito">Numero del Leitcho:</string>
+    <string name="pressaoart">Presion Arterial:</string>
+    <string name="temperatura">Temperatura del Cuerpo:</string>
+    <string name="batimentocard">Latidos Cardiacos:</string>
+    <string name="dados">Enviar Datos</string>
+    <string name="dados2">Otro paciente</string>
+    <string name="title_activity_main2">Ficha del Hospital Hospital</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Patient's Folder</string>
+    <string name="nomepaciente">Patient's Name:</string>
+    <string name="leito">Number of bed:</string>
+    <string name="pressaoart">Blood Pressure:</string>
+    <string name="temperatura">Body Temperature:</string>
+    <string name="batimentocard">Heart Beats:</string>
+    <string name="dados">Send Data</string>
+</resources>
